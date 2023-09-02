@@ -1,4 +1,5 @@
-# cs251
-Programming Languages w/ Prof. Simon Read @ SMCM Spring 2022
+## cs251
+# Programming Languages Class @ SMCM Spring 2022
+Specific snippets of my work from the Programming Languages course with professor Simon Read.
 
-Mostly SML code, had a lot of fun with dynamic programming in this class :)
+Final grade: B
